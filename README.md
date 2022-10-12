@@ -4,4 +4,13 @@ This paper considers the problem of secure packet routing at the maximum achieva
 
 We use ford fulkerson algorithm to find network layer capacity region. Then we use Djikstras to find shortest weighted path.
 
+The improvements we make:
+- 'Delay Performance': A better delay performance as compared to Back-Pressure based solutions.
+- 'Cycle Hopping': Avoids cycle hopping as paths are computed upon arrival of packets.
+
+The results:
+'Unicast'
+<img src="https://github.com/VishnuBeji/Quantum-Network/blob/master/images/fireee.png" width="1000px"/>
+'Broadcast' 
+<img src="https://github.com/VishnuBeji/Quantum-Network/blob/master/images/broadcastSim.png" width="1000px"/>
 Link to papaer can be found [here](https://ieeexplore.ieee.org/abstract/document/9668578)
