@@ -8,10 +8,11 @@ The improvements we make:
 - 'Delay Performance': A better delay performance as compared to Back-Pressure based solutions.
 - 'Cycle Hopping': Avoids cycle hopping as paths are computed upon arrival of packets.
 
-The results:
+The results: //
+
 'Unicast'
-<img src="https://github.com/VishnuBeji/Quantum-Network/blob/master/images/fireee.png" width="100px"/>
+<img src="https://github.com/VishnuBeji/Quantum-Network/blob/master/images/fireee.png" width="250px"/>
 
 'Broadcast' 
-<img src="https://github.com/VishnuBeji/Quantum-Network/blob/master/images/broadcastSim.png" width="100px"/>
+<img src="https://github.com/VishnuBeji/Quantum-Network/blob/master/images/broadcastSim.png" width="2500px"/>
 Link to papaer can be found [here](https://ieeexplore.ieee.org/abstract/document/9668578)
