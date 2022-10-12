@@ -4,9 +4,18 @@ This paper considers the problem of secure packet routing at the maximum achieva
 
 We use ford fulkerson algorithm to find network layer capacity region. Then we use Djikstras to find shortest weighted path.
 
+`Unicast_TQD_APM.ipynb` - Python Notebook for Unicast Simulations of QKD network: 
+Policies implemented: Tandem Queue Decomposition(TQD), Back Pressure(BP), Randomised Policy, Assured Path Method(APM)
+Graph Algorithms used: Ford Fulkerson, Prim's, Djikstras
+
+`Broadcast.ipynb` - Python Notebook for Broadcast Simulations of QKD network: 
+Policies implemented: Tandem Queue Decomposition(TQD), Randomised Policy, Assured Path Method(APM)
+Graph Algorithms used: Edmond's Algorithm (Minimum Spanning arborescence)
+
 The improvements we make:
 - `Delay Performance`: A better delay performance as compared to Back-Pressure based solutions.
 - `Cycle Hopping`: Avoids cycle hopping as paths are computed upon arrival of packets.
+- `Broadcast`: BP does not have an option for broadcast
 
 The results: //
 
