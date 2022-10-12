@@ -10,7 +10,8 @@ The improvements we make:
 
 The results:
 'Unicast'
-<img src="https://github.com/VishnuBeji/Quantum-Network/blob/master/images/fireee.png" width="1000px"/>
+<img src="https://github.com/VishnuBeji/Quantum-Network/blob/master/images/fireee.png" width="100px"/>
+
 'Broadcast' 
-<img src="https://github.com/VishnuBeji/Quantum-Network/blob/master/images/broadcastSim.png" width="1000px"/>
+<img src="https://github.com/VishnuBeji/Quantum-Network/blob/master/images/broadcastSim.png" width="100px"/>
 Link to papaer can be found [here](https://ieeexplore.ieee.org/abstract/document/9668578)
