@@ -11,8 +11,11 @@ The improvements we make:
 The results: //
 
 'Unicast'
+
 <img src="https://github.com/VishnuBeji/Quantum-Network/blob/master/images/fireee.png" width="250px"/>
 
 'Broadcast' 
-<img src="https://github.com/VishnuBeji/Quantum-Network/blob/master/images/broadcastSim.png" width="2500px"/>
+
+<img src="https://github.com/VishnuBeji/Quantum-Network/blob/master/images/broadcastSim.png" width="250px"/>
+
 Link to papaer can be found [here](https://ieeexplore.ieee.org/abstract/document/9668578)
